@@ -1,5 +1,5 @@
 # Profile_cards
-Profile Cards for your website 
+Profile Cards for your website with hover effect
 
 By Using HTML, CSS
 

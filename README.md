@@ -5,4 +5,4 @@ By Using HTML, CSS
 
 Output :- 
 
-![screen of output](profile_card
+![screen of output](profile_card/img/profile-card.jpg)
